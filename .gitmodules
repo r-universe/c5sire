@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ace2fastq"]
 	path = ace2fastq
 	url = https://github.com/c5sire/ace2fastq
-	shallow = true
-	registered = true
